@@ -5,7 +5,7 @@ Created for Chico ACM Fall 2025 Hackathon.
 ---
 
 This project is nothing to write home about. 
-It was made for a 2-week hackathon, and can charitably be described as functional.
+It was made for a 2-week hackathon, and can only charitably be described as functional.
 
 Creating it was my first time working with servers, period. 
 It was originally hosted on the cheapest server I could find, a VPS located in Moscow costing around $1.06/month. 
